@@ -1,2 +1,3 @@
 # ApnaCollege
-This is my first repository in ApnaCollege
+This is my first repository - ApnaCollege
+Author: JJ
